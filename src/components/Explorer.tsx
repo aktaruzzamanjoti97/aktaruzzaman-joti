@@ -7,14 +7,14 @@ import styles from '@/styles/Explorer.module.css';
 
 const explorerItems = [
 	{
-		name: 'home.tsx',
+		name: 'index.html',
 		path: '/',
-		icon: '/logos/react_icon.svg',
+		icon: '/logos/html_icon.svg',
 	},
 	{
-		name: 'index.html',
-		path: '/index',
-		icon: '/logos/html_icon.svg',
+		name: 'home.tsx',
+		path: '/home',
+		icon: '/logos/react_icon.svg',
 	},
 	{
 		name: 'about.ts',
