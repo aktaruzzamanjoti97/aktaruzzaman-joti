@@ -13,10 +13,18 @@ const Tabsbar = () => {
 				path='/contact'
 			/>
 			<Tab
+				icon='/logos/css_icon.svg'
+				filename='experience.css'
+				path='/experience'
+			/>
+			<Tab
 				icon='/logos/js_icon.svg'
 				filename='projects.js'
 				path='/projects'
 			/>
+			<Tab icon='/logos/js_icon.svg' filename='skills.js' path='/skills' />
+			<Tab icon='/logos/gmail.svg' filename='email.tsx' path='/' />
+
 			<Tab
 				icon='/logos/json_icon.svg'
 				filename='articles.json'
