@@ -12,6 +12,11 @@ const explorerItems = [
 		icon: '/logos/react_icon.svg',
 	},
 	{
+		name: 'index.html',
+		path: '/index',
+		icon: '/logos/html_icon.svg',
+	},
+	{
 		name: 'about.html',
 		path: '/about',
 		icon: '/logos/html_icon.svg',

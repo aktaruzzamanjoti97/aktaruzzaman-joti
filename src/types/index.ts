@@ -1,12 +1,13 @@
 export interface Article {
 	id: string;
 	title: string;
+	image: string;
 	description: string;
-	cover_image: string;
+	// cover_image: string;
 	url: string;
-	page_views_count: number;
-	public_reactions_count: number;
-	comments_count: number;
+	// page_views_count: number;
+	// public_reactions_count: number;
+	// comments_count: number;
 }
 
 export interface Project {
