@@ -28,10 +28,3 @@ export interface Repo {
 	html_url: string;
 	homepage: string;
 }
-
-export interface User {
-	login: string;
-	avatar_url: string;
-	public_repos: number;
-	followers: number;
-}
