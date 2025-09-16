@@ -82,7 +82,7 @@ const MyWork = () => {
 										/>
 									}>
 									<h3 className='vertical-timeline-element-title font-bold'>
-										Software Development Engineer I
+										Software Development Engineer
 									</h3>
 									<h4 className='vertical-timeline-element-subtitle'>
 										TechnoNext Software Ltd.
@@ -121,7 +121,7 @@ const MyWork = () => {
 										/>
 									}>
 									<h3 className='vertical-timeline-element-title font-bold'>
-										Software Development Engineer I
+										Software Development Engineer
 									</h3>
 									<h4 className='vertical-timeline-element-subtitle'>
 										TFP Solution Bangladesh Ltd.
@@ -175,7 +175,7 @@ const MyWork = () => {
 										/>
 									}>
 									<h3 className='vertical-timeline-element-title font-bold'>
-										Software Development Engineer I
+										Software Development Engineer
 									</h3>
 									<h4 className='vertical-timeline-element-subtitle'>
 										TechnoNext Software Ltd.
@@ -214,7 +214,7 @@ const MyWork = () => {
 										/>
 									}>
 									<h3 className='vertical-timeline-element-title font-bold'>
-										Software Development Engineer I
+										Software Development Engineer
 									</h3>
 									<h4 className='vertical-timeline-element-subtitle'>
 										TFP Solution Bangladesh Ltd.

@@ -17,9 +17,9 @@ const explorerItems = [
 		icon: '/logos/html_icon.svg',
 	},
 	{
-		name: 'about.html',
+		name: 'about.ts',
 		path: '/about',
-		icon: '/logos/html_icon.svg',
+		icon: '/logos/typescript.png',
 	},
 	{
 		name: 'contact.css',
@@ -27,14 +27,14 @@ const explorerItems = [
 		icon: '/logos/css_icon.svg',
 	},
 	{
-		name: 'experience.css',
+		name: 'experience.py',
 		path: '/experience',
-		icon: '/logos/css_icon.svg',
+		icon: '/logos/python.png',
 	},
 	{
-		name: 'projects.js',
+		name: 'projects.cpp',
 		path: '/projects',
-		icon: '/logos/js_icon.svg',
+		icon: '/logos/c++.png',
 	},
 	{
 		name: 'skills.js',
@@ -47,9 +47,9 @@ const explorerItems = [
 		icon: '/logos/gmail.svg',
 	},
 	{
-		name: 'articles.json',
+		name: 'articles.vue',
 		path: '/articles',
-		icon: '/logos/json_icon.svg',
+		icon: '/logos/vue.png',
 	},
 	{
 		name: 'settings.json',
