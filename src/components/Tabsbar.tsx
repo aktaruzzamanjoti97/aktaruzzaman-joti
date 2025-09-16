@@ -6,8 +6,8 @@ const Tabsbar = () => {
 	return (
 		<div className={styles.tabs}>
 			<Tab icon='/logos/react_icon.svg' filename='home.tsx' path='/' />
-			<Tab icon='/logos/html_icon.svg' filename='index.html' path='/about' />
-			<Tab icon='/logos/html_icon.svg' filename='about.html' path='/about' />
+			<Tab icon='/logos/html_icon.svg' filename='index.html' path='/index' />
+			<Tab icon='/logos/typescript.png' filename='about.ts' path='/about' />
 			<Tab
 				icon='/logos/css_icon.svg'
 				filename='contact.css'

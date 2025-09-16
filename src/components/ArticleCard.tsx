@@ -31,7 +31,7 @@ const ArticleCard = ({ article }: ArticleCardProps) => {
 			</div>
 			<div className={styles.content}>
 				<h3 className={styles.title}>{article.title}</h3>
-				<p className={styles.description}>{article.description}</p>
+				{/* <p className={styles.description}>{article.description}</p> */}
 
 				<div className={styles.footer}>
 					<div className={styles.stats}>

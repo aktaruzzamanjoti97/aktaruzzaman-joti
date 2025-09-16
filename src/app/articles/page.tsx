@@ -14,7 +14,7 @@ const ArticlesPage = async () => {
 	// );
 
 	// const articles = await res.json();
-	const articles = blogsData();
+	const articles: Article[] = blogsData();
 
 	return (
 		<div className={styles.layout}>
@@ -32,7 +32,7 @@ const ArticlesPage = async () => {
 			</p>
 			<div className={styles.container}>
 				{articles.length > 0 &&
-					articles?.map((article: Article) => (
+					articles.map((article) => (
 						<ArticleCard key={article.id} article={article} />
 					))}
 			</div>

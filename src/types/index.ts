@@ -1,10 +1,11 @@
 export interface Article {
-	id: string;
+	id: number;
 	title: string;
 	image: string;
-	description: string;
+	// description: string;
 	// cover_image: string;
 	url: string;
+	tag: string;
 	// page_views_count: number;
 	// public_reactions_count: number;
 	// comments_count: number;
