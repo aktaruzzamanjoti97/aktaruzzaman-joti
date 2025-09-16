@@ -31,6 +31,11 @@ const Tabsbar = () => {
 				path='/articles'
 			/>
 			<Tab
+				icon='/logos/json_icon.svg'
+				filename='settings.json'
+				path='/settings'
+			/>
+			<Tab
 				icon='/logos/markdown_icon.svg'
 				filename='github.md'
 				path='/github'

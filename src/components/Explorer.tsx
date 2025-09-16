@@ -47,6 +47,11 @@ const explorerItems = [
 		icon: '/logos/json_icon.svg',
 	},
 	{
+		name: 'settings.json',
+		path: '/settings',
+		icon: '/logos/json_icon.svg',
+	},
+	{
 		name: 'github.md',
 		path: '/github',
 		icon: '/logos/markdown_icon.svg',
