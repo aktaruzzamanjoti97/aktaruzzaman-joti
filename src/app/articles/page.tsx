@@ -14,7 +14,7 @@ const ArticlesPage = async () => {
 	// );
 
 	// const articles = await res.json();
-	const articles: Article[] = blogsData();
+	const articles: Article[] = blogsData;
 
 	return (
 		<div className={styles.layout}>
